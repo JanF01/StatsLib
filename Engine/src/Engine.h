@@ -1,8 +1,7 @@
 #pragma once
 
-
-namespace optimize {
-
+namespace stati {
 		
+	void omg();
 
 }
