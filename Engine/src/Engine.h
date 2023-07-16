@@ -1,7 +1,8 @@
 #pragma once
 
-namespace stati {
-		
-	void omg();
+#ifndef ENGINE_H_
+#define ENGINE_H_
 
-}
+#include "Basic.cpp";
+
+#endif

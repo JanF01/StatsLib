@@ -148,9 +148,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="src\Engine.h" />
+    <ClInclude Include="src\BasicBase.h" />
+    <ClInclude Include="src\Basic.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\Engine.cpp" />
+    <ClCompile Include="src\Basic.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
